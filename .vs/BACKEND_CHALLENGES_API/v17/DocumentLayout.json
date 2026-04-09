@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|e:\\challenge- backend\\backend_challenges_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|e:\\challenge- backend\\backend_challenges_api\\backend_challenges_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|solutionrelative:backend_challenges_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|e:\\challenge- backend\\backend_challenges_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|e:\\challenge- backend\\backend_challenges_api\\models\\coursemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|solutionrelative:models\\coursemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|e:\\challenge- backend\\backend_challenges_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77F853BB-EC75-48E3-B39B-7FE84C0664BD}|BACKEND_CHALLENGES_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:52:36.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BACKEND_CHALLENGES_API",
+              "DocumentMoniker": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\BACKEND_CHALLENGES_API.csproj",
+              "RelativeDocumentMoniker": "BACKEND_CHALLENGES_API.csproj",
+              "ToolTip": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\BACKEND_CHALLENGES_API.csproj",
+              "RelativeToolTip": "BACKEND_CHALLENGES_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T07:42:16.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseManagementContext.cs",
+              "DocumentMoniker": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\Models\\CourseManagementContext.cs",
+              "RelativeDocumentMoniker": "Models\\CourseManagementContext.cs",
+              "ToolTip": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\Models\\CourseManagementContext.cs",
+              "RelativeToolTip": "Models\\CourseManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:28:08.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T07:23:04.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CHALLENGE- BACKEND\\BACKEND_CHALLENGES_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:06:49.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
