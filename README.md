@@ -1,6 +1,7 @@
 ## Giới thiệu bản thân
-Xin chào, tôi là **Huỳnh Nguyễn Minh Trí**.
-Tôi đang trong quá trình chinh phục lộ trình trở thành **Backend Developer**. Repository này là nơi tôi lưu trữ các bài tập, dự án và kiến thức về cơ sở dữ liệu trong khóa học Backend Academy.
+* Xin chào, tôi là **Huỳnh Nguyễn Minh Trí**.
+* Repository này là nơi tôi lưu trữ các bài tập, dự án và kiến thức về cơ sở dữ liệu trong khóa học PHASE 1 – DATABASE & ENVIRONMENT FOUNDATION
+.
 ---
 ## Mục tiêu học tập
 * **Thành thạo Git/GitHub:** Hiểu rõ quy trình làm việc nhóm và quản lý mã nguồn.
